@@ -5,9 +5,9 @@ We are the Internet Equity Initiative and this is our GitHub organization. We ar
 
 ### 👩‍💻 Useful resources
 
-- Read more about our initiative here.
-- Scroll through our many papers, shared resources, and data stories.
-- Learn about the software and data that we release and maintain here.
+- Read more about our initiative [here](https://internetequity.uchicago.edu/about/).
+- Scroll through our many [papers](https://internetequity.uchicago.edu/research/), [shared resources](https://internetequity.uchicago.edu/resources/), and [data stories](https://internetequity.uchicago.edu/data-stories/).
+- Learn about the software and data that we release and maintain [here](https://internetequity.org/).
 
 If you have any feedback for us, suggestions for our tools and data, or would just like to connect and talk shop, please email us at broadband-equity@lists.uchicago.edu.
 
