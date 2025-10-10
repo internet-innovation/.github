@@ -9,6 +9,4 @@ We are the Internet Innovation Initiative and this is our GitHub organization. W
 - Scroll through our many [papers](https://internetequity.uchicago.edu/research/), [shared resources](https://internetequity.uchicago.edu/resources/), and [data stories](https://internetequity.uchicago.edu/data-stories/).
 - Learn about the software and data that we release and maintain [here](https://internetequity.org/).
 
-If you have any feedback for us, suggestions for our tools and data, or would just like to connect and talk shop, please email us at broadband-equity@lists.uchicago.edu. You can also find other details about submitting feedback on our software and data [here](https://internetequity.org/feedback/submitting-feedback.html).
-
-Scroll down to peruse our repositories.
+You can find other details about submitting feedback on our software and data [here](https://internetequity.org/feedback/submitting-feedback.html).
