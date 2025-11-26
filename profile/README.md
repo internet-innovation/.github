@@ -5,8 +5,8 @@ We are the Internet Innovation Initiative and this is our GitHub organization. W
 
 ### Useful resources
 
-- Read more about our initiative [here](https://internetequity.uchicago.edu/about/).
-- Scroll through our many [papers](https://internetequity.uchicago.edu/research/), [shared resources](https://internetequity.uchicago.edu/resources/), and [data stories](https://internetequity.uchicago.edu/data-stories/).
-- Learn about the software and data that we release and maintain [here](https://internetequity.org/).
+- Read more about our initiative [here](https://internet-innovation.github.io/about/).
+- Scroll through our many [papers](https://internet-innovation.github.io/publications/), [shared resources](https://internet-innovation.github.io/resources/), and [data stories](https://internet-innovation.github.io/blog/).
+- Learn about the software and data that we release and maintain [here](https://internet-innovation.github.io/).
 
-You can find other details about submitting feedback on our software and data [here](https://internetequity.org/feedback/submitting-feedback.html).
+You can find other details about submitting feedback on our software and data [here](https://internet-innovation.github.io/datasets-code/).
